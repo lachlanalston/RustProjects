@@ -24,6 +24,7 @@ fn main() {
         kel = input2 + 273.15;
         println!("{}C = {}F", input2, fah);
         println!("{}C = {}K", input2, kel);
+        println!("Program now exiting");
     }
 
     else if input == "2"{
@@ -35,6 +36,7 @@ fn main() {
         kel = cel3 + 273.15;
         println!("{}F = {}C", input2, cel3);
         println!("{}F = {}K", input2, kel);
+        println!("Program now exiting");
     }
 
     else if input == "3"{
