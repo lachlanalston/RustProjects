@@ -3,6 +3,7 @@ use std::io;
 const FREEZING_POINT_FAH: f32 = 273.15;
 const KELVIN_OFFSET: f32 = 32.0;
 const TEMPERATURE_CONVERSION_RATIO: f32 = 1.8;
+
 fn main() {
     let mut input = String::new();
     
@@ -39,8 +40,8 @@ fn main() {
     }
 
     else if input == "3"{
-        cel = input2 - 273.15;
-        fah = cel * 1.8 + 32.0;
+        cel = kel_to_cel(input2);
+        fah = kel_to_fah(input2);
         println!("{}K = {}C", input2, cel);
         println!("{}K = {}F", input2, fah);
         println!("Program now exiting");
@@ -58,9 +59,19 @@ fn cel_to_fah(cel: f32) -> f32 {
 fn cel_to_kel(cel: f32) -> f32 {
     return cel + FREEZING_POINT_FAH;
 }
-fn fah_to_cel(fah: f32) -> f32{
-    return fah - KELVIN_OFFSET * 5.0 / 9.0;
+fn fah_to_cel(mut fah: f32) -> f32{
+    fah = fah - KELVIN_OFFSET;
+    return fah * 5.0 / 9.0;
 }
-fn fah_to_kel(fah: f32) -> f32{
-    return fah - KELVIN_OFFSET * 5.0 / 9.0 + FREEZING_POINT_FAH;
+fn fah_to_kel(mut fah: f32) -> f32{
+    fah = fah - KELVIN_OFFSET;
+    return fah * 5.0 / 9.0 + FREEZING_POINT_FAH;
 }
+fn kel_to_cel(kel: f32) -> f32{
+    return kel - FREEZING_POINT_FAH;
+}
+fn kel_to_fah(mut kel: f32) -> f32{
+    kel = kel - FREEZING_POINT_FAH;
+    return kel * TEMPERATURE_CONVERSION_RATIO + KELVIN_OFFSET;
+}
+
