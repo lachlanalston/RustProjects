@@ -42,6 +42,7 @@ fn main() {
         fah = cel * 1.8 + 32.0;
         println!("{}K = {}C", input2, cel);
         println!("{}K = {}F", input2, fah);
+        println!("Program now exiting");
     }
 
     else{
