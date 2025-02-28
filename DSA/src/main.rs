@@ -1,3 +1,4 @@
+mod linked_list;
 fn main() {
-    println!("Hello, world!");
+    linked_list::test();
 }
