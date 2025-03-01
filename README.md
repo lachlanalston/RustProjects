@@ -1,5 +1,4 @@
 This repository contains all the projects and exercises I have worked on to improve my Rust skills. It includes a variety of scripts, exercises, and personal projects that helped me get hands-on experience with the language.
-Contents
 
 1. Scripts from The Rust Programming Language Book
 
