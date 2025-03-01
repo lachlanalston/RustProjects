@@ -1,4 +1,4 @@
-mod linked_list;
+mod single_linked_list;
 fn main() {
-    linked_list::test();
+    single_linked_list::test();
 }
