@@ -2,4 +2,5 @@
 /DSA/target/*
 /the_book/*/target/*
 /yealink-firmware-check/target/*
+/yealink-firmware-check/Cargo.lock
 /.vscode/*
