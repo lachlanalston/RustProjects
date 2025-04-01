@@ -1,4 +1,5 @@
 /temp_converter/target/*
 /DSA/target/*
 /the_book/*/target/*
+/yealink-firmware-check/target/*
 /.vscode/*

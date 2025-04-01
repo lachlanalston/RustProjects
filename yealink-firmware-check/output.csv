@@ -1,0 +1,241 @@
+Model,Version,Info,Firmware
+Snom 300,8.7.5.48,Snom 300 FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom300-8.7.5.48-SIP-f.bin
+Snom 320,8.7.5.48,Snom 320 FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom320-8.7.5.48-SIP-f.bin
+Snom 360,8.7.3.25.9,Snom 360 FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom360-8.7.3.25.9-SIP-f.bin
+Snom 370,8.7.5.48,Snom 370 FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom370-8.7.5.48-SIP-f.bin
+Snom 710,8.9.3.96,Snom 710 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom710-8.9.3.96-SIP-r.bin
+Snom 715,10.1.175.16,Snom 715 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom715-10.1.175.16-SIP-r.bin
+Snom 720,8.9.3.88,Snom 720 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom720-8.9.3.88-SIP-r.bin
+Snom 725,10.1.175.16,Snom 725 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom725-10.1.175.16-SIP-r.bin
+Snom 760,8.9.3.88,Snom 760 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom760-8.9.3.88-SIP-r.bin
+Snom D120,10.1.54.24,Snom D120 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD120-10.1.54.24-SIP-r.bin
+Snom D140,10.1.175.16,Snom D140 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD140-10.1.175.16-SIP-r.bin
+Snom D150,10.1.175.16,Snom D150 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD150-10.1.175.16-SIP-r.bin
+Snom D305,10.1.64.17,Snom D305 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD305-10.1.64.17-SIP-r.bin
+Snom D315,10.1.175.16,Snom D315 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD315-10.1.175.16-SIP-r.bin
+Snom D335,10.1.175.16,Snom D335 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD335-10.1.175.16-SIP-r.bin
+Snom D345,10.1.175.16,Snom D345 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD345-10.1.175.16-SIP-r.bin
+Snom D375,10.1.64.17,Snom D375 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD375-10.1.64.17-SIP-r.bin
+Snom D385,10.1.175.16,Snom D385 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD385-10.1.175.16-SIP-r.bin
+Snom D712,10.1.175.16,Snom D712 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD712-10.1.175.16-SIP-r.bin
+Snom D713,10.1.175.16,Snom D713 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD713-10.1.175.16-SIP-r.bin
+Snom D717,10.1.175.16,Snom D717 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD717-10.1.175.16-SIP-r.bin
+Snom D735,10.1.175.16,Snom D735 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD735-10.1.175.16-SIP-r.bin
+Snom D745,10.1.54.16,Snom D745 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD745-10.1.54.16-SIP-r.bin
+Snom D765,10.1.64.17,Snom D765 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD765-10.1.64.17-SIP-r.bin
+Snom D785,10.1.175.16,Snom D785 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD785-10.1.175.16-SIP-r.bin
+Snom D862,10.1.175.16,Snom D862: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD862-10.1.175.16-SIP-r.swu
+Snom D865,10.1.175.16,Snom D865: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomD865-10.1.175.16-SIP-r.swu
+Snom 820,8.7.5.35,Snom 820 FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom820-8.7.5.35-SIP-r.bin
+Snom 821,8.7.5.48,Snom 821 FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom821-8.7.5.48-SIP-r.bin
+Snom 870,8.7.5.44,Snom 870 FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snom870-8.7.5.44-SIP-r.bin
+Snom PA1,8.7.5.75,Snom PA1 FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomPA1-8.7.5.75-SIP-f.bin
+Snom MP,8.7.5.48,Snom MP FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/snomMP-8.7.5.48-SIP-r.bin
+Snom C520,1.2.0.10-0,Snom C520 Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/snom/C520-WiMi-1.2.0.10-0.img
+Yealink T19P E2,53.84.0.140,Yealink T19P E2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T19P_E2-53.84.0.140.rom
+Yealink T19 E2,53.84.0.140,Yealink T19 E2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T19P_E2-53.84.0.140.rom
+Yealink T19P,31.72.0.105,Yealink T19P FW,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T19P-31.72.0.105.rom
+Yealink T20P,9.73.0.60,Yealink T20P FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T20-9.73.0.60.rom
+Yealink T21P E2,52.84.0.140,Yealink T21P E2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T21P_E2-52.84.0.140.rom
+Yealink T21 E2,52.84.0.140,Yealink T21 E2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T21P_E2-52.84.0.140.rom
+Yealink T21P,34.72.0.93,Yealink T21P FW,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T21-34.72.0.93.rom
+Yealink T22P,7.73.0.60,Yealink T22P FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T22-7.73.0.60.rom
+Yealink T23P,44.84.0.140,Yealink T23P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T23-44.84.0.140.rom
+Yealink T23G,44.84.0.140,Yealink T23G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T23-44.84.0.140.rom
+Yealink T26P,6.73.0.60,Yealink T26P FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T26-6.73.0.60.rom
+Yealink T27P,45.83.0.130,Yealink T27P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T27-45.83.0.130.rom
+Yealink T27G,69.86.0.5,Yealink T27G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T27G-69.86.0.5.rom
+Yealink T28P,2.73.0.60,Yealink T28P FW: Added support for Lets Encrypt,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T28-2.73.0.60.rom
+Yealink T29G,46.83.0.136,Yealink T29G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T29-46.83.0.136.rom
+Yealink T30P,124.87.0.15,Yealink T30P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T3X-124.87.0.15.rom
+Yealink T31P,124.87.0.15,Yealink T31P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T3X-124.87.0.15.rom
+Yealink T31G,124.87.0.15,Yealink T31G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T3X-124.87.0.15.rom
+Yealink T31W,124.87.0.15,Yealink T31W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T3X-124.87.0.15.rom
+Yealink T33P,124.87.0.15,Yealink T33P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T3X-124.87.0.15.rom
+Yealink T33G,124.87.0.15,Yealink T33G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T3X-124.87.0.15.rom
+Yealink T34W,124.87.0.15,Yealink T34W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T3X-124.87.0.15.rom
+Yealink T32,32.70.0.228,Yealink T32 FW: Only Accept Trusted Certificates is disabled,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T32-32.70.0.228.rom
+Yealink T38,38.70.0.228,Yealink T38 FW: Only Accept Trusted Certificates is disabled,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T38-38.70.0.228.rom
+Yealink T40P,54.84.0.95,Yealink T40P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T40-54.84.0.95.rom
+Yealink T40G,76.84.0.95,Yealink T40G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T40G-76.84.0.95.rom
+Yealink T41S,66.86.0.15,Yealink T41S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XS-66.86.0.15.rom
+Yealink T41P,36.83.0.145,Yealink T41P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T41-36.83.0.145.rom
+Yealink T41U,108.87.0.16,Yealink T41U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XU-108.87.0.16.rom
+Yealink T42S,66.86.0.15,Yealink T42S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XS-66.86.0.15.rom
+Yealink T42G,29.83.0.145,Yealink T42G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T42-29.83.0.145.rom
+Yealink T42U,108.87.0.16,Yealink T42U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XU-108.87.0.16.rom
+Yealink T43U,108.87.0.16,Yealink T43U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XU-108.87.0.16.rom
+Yealink T44U,108.87.0.16,Yealink T44U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XU-108.87.0.16.rom
+Yealink T44W,108.87.0.16,Yealink T44W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XU-108.87.0.16.rom
+Yealink T46S,66.86.0.15,Yealink T46S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XS-66.86.0.15.rom
+Yealink T46G,28.83.0.136,Yealink T46G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T46-28.83.0.136.rom
+Yealink T46U,108.87.0.16,Yealink T46U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XU-108.87.0.16.rom
+Yealink T48S,66.86.0.15,Yealink T48S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XS-66.86.0.15.rom
+Yealink T48G,35.83.0.136,Yealink T48G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T48-35.83.0.136.rom
+Yealink T48U,108.87.0.16,Yealink T48U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T4XU-108.87.0.16.rom
+Yealink T52S,70.84.0.80,Yealink T52S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T5XS-70.84.0.80.rom
+Yealink T53,96.87.0.16,Yealink T53 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T5XW-96.87.0.16.rom
+Yealink T53W,96.87.0.16,Yealink T53W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T5XW-96.87.0.16.rom
+Yealink T53C,96.87.0.16,Yealink T53C FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T5XW-96.87.0.16.rom
+Yealink T54S,70.84.0.80,Yealink T54S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T5XS-70.84.0.80.rom
+Yealink T54W,96.87.0.16,Yealink T54W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T5XW-96.87.0.16.rom
+Yealink T57W,96.87.0.16,Yealink T57W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T5XW-96.87.0.16.rom
+Yealink T56A,58.86.0.39,Yealink T56A FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T5XA-58.86.0.39.rom
+Yealink T58,58.86.0.39,Yealink T58 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T5XA-58.86.0.39.rom
+Yealink T58W,150.87.0.15,Yealink T58W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/T58W-150.87.0.15.rom
+Yealink AX83H,180.87.0.6,Yealink AX83H FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/AX8-180.87.0.6.rom
+Yealink CP860,37.81.0.15,Yealink CP860 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/CP860-37.81.0.15.rom
+Yealink CP920,78.86.0.15,Yealink CP920 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/CP920-78.86.0.15.rom
+Yealink CP925,148.87.0.15,Yealink CP925 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/CP925-148.87.0.15.rom
+Yealink CP960,73.86.0.20,Yealink CP960 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/CP960-73.86.0.20.rom
+Yealink CP965,143.87.0.20,Yealink CP965 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/CP965-143.87.0.20.rom
+Yealink VP530P,23.70.0.63,Yealink VP530P FW,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/yealink/23.70.0.63.rom
+Fanvil X3,1.4.0.2090,Fanvil X3 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x31.4.0.2090.z
+Fanvil X5,1.4.0.2090,Fanvil X5 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x51.4.0.2090.z
+Fanvil X1S,2.4.12,Fanvil X1S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x1s_2.4.12.z
+Fanvil X1SG,2.4.12,Fanvil X1SG FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x1sg_2.4.12.z
+Fanvil X1,2.14.0.7387,Fanvil X1 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x1_2.14.0.7387.z
+Fanvil X2C,2.14.0.7387,Fanvil X2C FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x2c_2.14.0.7387.z
+Fanvil X2,2.14.0.7387,Fanvil X2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x2_2.14.0.7387.z
+Fanvil X3S,2.14.0.7387,Fanvil X3S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x3s_2.14.0.7387.z
+Fanvil X3S(P) Lite,2.12.20,Fanvil X3S(P) Lite FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x3splite_2.12.20.z
+Fanvil X3S(P) Pro,2.12.20,Fanvil X3S(P) Pro FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x3sppro_2.12.20.z
+Fanvil X3SG,2.4.12,Fanvil X3SG FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x3sg_2.4.12.z
+Fanvil X3SG Lite,2.12.20,Fanvil X3SG Lite FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x3sglite_2.12.20.z
+Fanvil X3SG Pro,2.12.20,Fanvil X3SG Pro FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x3sgpro_2.12.20.z
+Fanvil X3U,2.4.12,Fanvil X3U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x3u_2.4.12.z
+Fanvil X3U Pro,2.12.20,Fanvil X3U Pro FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x3upro_2.12.20.z
+Fanvil X301(P),2.12.20,Fanvil X301(P) FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x301x_2.12.20.z
+Fanvil X301G,2.12.20,Fanvil X301G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x301x_2.12.20.z
+Fanvil X301W,2.12.20,Fanvil X301W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x301w_2.12.20.z
+Fanvil X303(P),2.12.20,Fanvil X303(P) FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x303x_2.12.20.z
+Fanvil X303G,2.12.20,Fanvil X303G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x303x_2.12.20.z
+Fanvil X303W,2.12.20,Fanvil X303W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x303w_2.12.20.z
+Fanvil X305,2.12.1.10,Fanvil X305 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x305_2.12.1.10.z
+Fanvil X4,2.14.0.7387,Fanvil X4 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x4_2.14.0.7387.z
+Fanvil X4U,2.4.12,Fanvil X4U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x4u_2.4.12.z
+Fanvil X4U-V2,2.12.20,Fanvil X4U-V2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x4u-v2_2.12.20.z
+Fanvil X5S,2.4.12,Fanvil X5S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x5s_2.4.12.z
+Fanvil X5U,2.4.12,Fanvil X5U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x5u_2.4.12.z
+Fanvil X5U-V2,2.12.20,Fanvil X5U-V2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x5u-v2_2.12.20.z
+Fanvil X6,2.4.12,Fanvil X6 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x6_2.4.12.z
+Fanvil X6U,2.4.12,Fanvil X6U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x6u_2.4.12.z
+Fanvil X6U-V2,2.12.20,Fanvil X6U-V2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x6u-v2_2.12.20.z
+Fanvil X7,2.4.12,Fanvil X7 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x7_2.4.12.z
+Fanvil X7-V2,2.12.20,Fanvil X7-V2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x7-v2_2.12.20.z
+Fanvil X7C,2.4.12,Fanvil X7C FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x7c_2.4.12.z
+Fanvil X7C-V2,2.12.20,Fanvil X7C-V2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x7c-v2_2.12.20.z
+Fanvil X7A,2.6.0.613,Fanvil X7A FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x7a_2.6.0.613_hw10.zip
+Fanvil X210,2.4.12,Fanvil X210 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x210_2.4.12.z
+Fanvil X210-V2,2.12.20,Fanvil X210-V2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x210-v2_2.12.20.z
+Fanvil X210i-V2,2.12.20,Fanvil X210i-V2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/x210i-v2_2.12.20.z
+Fanvil H2S,2.14.0.7387,Fanvil H2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/h2s_2.14.0.7387.z
+Fanvil H2U,2.4.12,Fanvil H2U FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/h2u_2.4.12.z
+Fanvil H2U-V2,2.4.8.2,Fanvil H2U-V2 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/h2u-v2_2.4.8.2.z
+Fanvil H3,2.14.0.7387,Fanvil H3 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/h3_2.14.0.7387.z
+Fanvil H3W,2.12.20,Fanvil H3W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/h3w_2.12.20.z
+Fanvil H5,2.14.0.7387,Fanvil H5 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/h5_2.14.0.7387.z
+Fanvil H5W,2.12.20,Fanvil H5W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/h5w_2.12.20.z
+Fanvil Android C400,14.0.1.6.r1,Fanvil Android C400 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/C400.bin
+Fanvil Android C600,14.0.1.6.r1,Fanvil Android C600 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/C600.bin
+Fanvil i18S door-phone,2.8.2.7020,Fanvil i18S door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/iSeries2.8.2.7020.z
+Fanvil i10S door-phone,2.4.7,Fanvil i10S door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i10S_2.4.7.z
+Fanvil i10SD door-phone,2.4.7,Fanvil i10SD door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i10SD_2.4.7.z
+Fanvil i10SV door-phone,2.4.7,Fanvil i10SV door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i10SV_2.4.7.z
+Fanvil i16S door-phone,2.4.7,Fanvil i16S door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i16S_2.4.7.z
+Fanvil i16SV door-phone,2.4.7,Fanvil i16SV door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i16SV_2.4.7.z
+Fanvil i20S door-phone,2.8.2.7020,Fanvil i20S door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/iSeries2.8.2.7020.z
+Fanvil i23S door-phone,2.8.2.7020,Fanvil i23S door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/iSeries2.8.2.7020.z
+Fanvil i30 door-phone,2.8.2.7020,Fanvil i30 door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/iSeries2.8.2.7020.z
+Fanvil i31S door-phone,2.8.2.7020,Fanvil i31S door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/iSeries2.8.2.7020.z
+Fanvil iW30 SIP Speaker,2.8.2.7020,Fanvil iW30 SIP Speaker: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/iSeries2.8.2.7020.z
+Fanvil PA2 Paging Gateway,2.8.2.7020,Fanvil PA2 Paging Gateway: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/iSeries2.8.2.7020.z
+Fanvil PA3 Paging Gateway,2.4.7,Fanvil PA3 Paging Gateway: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/PA3_2.4.7.z
+Fanvil i56A door-phone,0.2.0.103,Fanvil i56A door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i56a_0.2.0.103_hw10.zip
+Fanvil i61 door-phone,2.12.44.20.1,Fanvil i61 door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i61_2.12.44.20.1.z
+Fanvil i62 door-phone,2.12.44.20.1,Fanvil i62 door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i62_2.12.44.20.1.z
+Fanvil i63 door-phone,2.12.44.20.1,Fanvil i63 door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i63_2.12.44.20.1.z
+Fanvil i64 door-phone,2.12.44.20.1,Fanvil i64 door-phone: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/i64_2.12.44.20.1.z
+Fanvil V61G,2.12.18.8,Fanvil V61G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/v6xGW_2.12.18.8.z
+Fanvil V61W,2.12.18.8,Fanvil V61W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/v6xGW_2.12.18.8.z
+Fanvil V62,2.12.20.1,Fanvil V62 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/v62_2.12.20.1.z
+Fanvil V62G,2.12.18.8,Fanvil V62G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/v6xGW_2.12.18.8.z
+Fanvil V62W,2.12.18.8,Fanvil V62W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/v6xGW_2.12.18.8.z
+Fanvil V63,2.12.17.2,Fanvil V63 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/v63_2.12.17.2.z
+Fanvil V64,2.12.20,Fanvil V64 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/v64_2.12.20.z
+Fanvil V65,2.12.20,Fanvil V65 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/v65_2.12.20.z
+Fanvil W610W,2.14.0.19,Fanvil W610W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/w610w_2.14.0.19.z
+Fanvil W611W,2.14.2.2,Fanvil W611W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/fanvil/w611w_2.14.2.2.z
+Htek UC802,2.0.6.6.1,Htek UC802 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw802.rom
+Htek UC803,2.0.6.6.1,Htek UC803 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw803.rom
+Htek UC804T,2.0.6.6.1,Htek UC804T FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw804T.rom
+Htek UC804G,2.0.6.6.1,Htek UC804G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw804G.rom
+Htek UC804,2.0.6.6.1,Htek UC804 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw804.rom
+Htek UC806T,2.0.6.6.1,Htek UC806T FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw806T.rom
+Htek UC806G,2.0.6.6.1,Htek UC806G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw806G.rom
+Htek UC806,2.0.6.6.1,Htek UC806 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw806.rom
+Htek UC840,2.0.6.6.1,Htek UC840 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw840.rom
+Htek UC842,2.0.6.6.1,Htek UC842 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw842.rom
+Htek UC860,2.0.6.6.1,Htek UC860 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw860.rom
+Htek UC862,2.0.6.6.1,Htek UC862 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw862.rom
+Htek UC902,2.0.6.6.1,Htek UC902 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw902.rom
+Htek UC902S,2.0.6.6.1,Htek UC902S FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw910M.rom
+Htek UC903,2.0.6.6.1,Htek UC903 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw903.rom
+Htek UC912G,2.0.6.6.1,Htek UC912G FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw912G.rom
+Htek UC912E,2.0.6.6.1,Htek UC912E FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw900M.rom
+Htek UC912,2.0.6.6.1,Htek UC912 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw912.rom
+Htek UC921,2.0.6.6.1,Htek UC921 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw910M.rom
+Htek UC923,2.0.6.6.1,Htek UC923 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw923.rom
+Htek UC924E,2.0.6.6.1,Htek UC924E FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw920M.rom
+Htek UC924,2.0.6.6.1,Htek UC924 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw924.rom
+Htek UC926E,2.0.6.6.1,Htek UC926E FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw920M.rom
+Htek UC926,2.0.6.6.1,Htek UC926 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/htek/fw926.rom
+Grandstream 1610 IP Phone,1.0.7.13,Grandstream GXP-1610 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1600fw.bin
+Grandstream 1615 IP Phone,1.0.7.13,Grandstream GXP-1615 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1600fw.bin
+Grandstream 1620 IP Phone,1.0.7.13,Grandstream GXP-1620 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1600fw.bin
+Grandstream 1625 IP Phone,1.0.7.13,Grandstream GXP-1625 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1600fw.bin
+Grandstream 1628 IP Phone,1.0.7.13,Grandstream GXP-1628 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1600fw.bin
+Grandstream 1630 IP Phone,1.0.7.13,Grandstream GXP-1630 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1600fw.bin
+Grandstream 1760 IP Phone,1.0.1.116,Grandstream GXP-1760 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1700fw.bin
+Grandstream 1760W IP Phone,1.0.1.116,Grandstream GXP-1760W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1700fw.bin
+Grandstream 1780 IP Phone,1.0.1.116,Grandstream GXP-1780 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1700fw.bin
+Grandstream 1782 IP Phone,1.0.1.116,Grandstream GXP-1782 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp1700fw.bin
+Grandstream 2130 IP Phone,1.0.11.74,Grandstream GXP-2130 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp2130fw.bin
+Grandstream 2135 IP Phone,1.0.11.74,Grandstream GXP-2135 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp2135fw.bin
+Grandstream 2140 IP Phone,1.0.11.74,Grandstream GXP-2140 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp2140fw.bin
+Grandstream 2160 IP Phone,1.0.11.74,Grandstream GXP-2160 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp2160fw.bin
+Grandstream 2170 IP Phone,1.0.11.74,Grandstream GXP-2170 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gxp2170fw.bin
+Grandstream GRP2601 IP Phone,1.0.3.63,Grandstream GRP-2601 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2600fw.bin
+Grandstream GRP2601P IP Phone,1.0.3.63,Grandstream GRP-2601P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2600fw.bin
+Grandstream GRP2602 IP Phone,1.0.3.63,Grandstream GRP-2602 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2600fw.bin
+Grandstream GRP2602P IP Phone,1.0.3.63,Grandstream GRP-2602P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2600fw.bin
+Grandstream GRP2602W IP Phone,1.0.3.63,Grandstream GRP-2602W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2600fw.bin
+Grandstream GRP2603 IP Phone,1.0.3.63,Grandstream GRP-2603 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2600fw.bin
+Grandstream GRP2603P IP Phone,1.0.3.63,Grandstream GRP-2603P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2600fw.bin
+Grandstream GRP2604 IP Phone,1.0.3.63,Grandstream GRP-2604 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2600fw.bin
+Grandstream GRP2604P IP Phone,1.0.3.63,Grandstream GRP-2604P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2600fw.bin
+Grandstream GRP2612 IP Phone,1.0.7.33,Grandstream GRP-2612 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2610fw.bin
+Grandstream GRP2612P IP Phone,1.0.7.33,Grandstream GRP-2612P FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2610fw.bin
+Grandstream GRP2612W IP Phone,1.0.7.33,Grandstream GRP-2612W FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2610fw.bin
+Grandstream GRP2613 IP Phone,1.0.7.33,Grandstream GRP-2613 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2610fw.bin
+Grandstream GRP2614 IP Phone,1.0.7.33,Grandstream GRP-2614 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2610fw.bin
+Grandstream GRP2615 IP Phone,1.0.7.33,Grandstream GRP-2615 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2610fw.bin
+Grandstream GRP2616 IP Phone,1.0.7.33,Grandstream GRP-2616 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/grp2610fw.bin
+Grandstream GSC3505 SIP Speaker,1.0.3.8,Grandstream GSC-3505 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gsc3505fw.bin
+Grandstream GSC3510 SIP Speaker,1.0.1.18,Grandstream GSC-3510 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gsc3510fw.bin
+Grandstream GDS3705 SIP Speaker,1.0.1.6,Grandstream GDS-3705 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gds3705fw.bin
+Grandstream GDS3710 SIP Speaker,1.0.7.24,Grandstream GDS-3710 FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/grandstream/gds37xx_fw.bin
+Intelbras TIP120i IP Phone,4.1.3,Intelbras TIP120i FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/intelbras/TIP120_4.1.3.bin
+Intelbras TIP125i IP Phone,4.1.3,Intelbras TIP125i FW: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/intelbras/TIP125_4.1.3.bin
+Polycom VVX 101,6.4.3.5018,Polycom VVX 101: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-40250-001.sip.ld
+Polycom VVX 150,6.4.3.5018,Polycom VVX 150: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48810-001.sip.ld
+Polycom VVX 201,6.4.3.5018,Polycom VVX 201: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-40450-001.sip.ld
+Polycom VVX 250,6.4.3.5018,Polycom VVX 250: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48820-001.sip.ld
+Polycom VVX 301,6.4.3.5018,Polycom VVX 301: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48300-001.sip.ld
+Polycom VVX 311,6.4.3.5018,Polycom VVX 311: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48350-001.sip.ld
+Polycom VVX 350,6.4.3.5018,Polycom VVX 350: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48830-001.sip.ld
+Polycom VVX 401,6.4.3.5018,Polycom VVX 401: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48400-001.sip.ld
+Polycom VVX 411,6.4.3.5018,Polycom VVX 411: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48450-001.sip.ld
+Polycom VVX 450,6.4.3.5018,Polycom VVX 450: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48840-001.sip.ld
+Polycom VVX 501,6.4.3.5018,Polycom VVX 501: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48500-001.sip.ld
+Polycom VVX 601,6.4.3.5018,Polycom VVX 601: Maintenance release,https://downloads-global.3cx.com/downloads/v200/templates/firmwareupdates/polycom/3111-48600-001.sip.ld
