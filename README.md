@@ -30,5 +30,5 @@ These are projects I created to explore Rust further and apply what I’ve learn
 **Temp Converter (`temp_converter`)** – A simple program for converting temperatures between different units.  
 
 **Data Structures & Algorithms (`DSA`)** – Implementations of various data structures and algorithms in Rust.  
-
+.
 ---
